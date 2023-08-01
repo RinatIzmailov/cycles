@@ -135,3 +135,6 @@ const myArray10 = [1, 2, 3, 4, 5]
 myArray10.forEach(element => {
     console.log(element)
 })
+
+
+                // for of не для объектов!!! так как объекты не итерируемые елементы в js 
